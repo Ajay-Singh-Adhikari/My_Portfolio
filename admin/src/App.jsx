@@ -6,7 +6,7 @@ import List from "./components/List";
 import { ToastContainer } from "react-toastify";
 
 const App = () => {
-  const url = "http://localhost:4001";
+  const url = "https://ajay-portfolio-backend-5zns.onrender.com";
   return (
     <div className="dark:bg-gray-900 min-h-screen">
       <ToastContainer />
