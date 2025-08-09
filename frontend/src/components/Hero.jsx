@@ -20,7 +20,7 @@ export default function Hero() {
 
       <h2 className="text-lg sm:text-xl mt-2 text-pink-500">
         <span className="text-black dark:text-white">I&apos;m a </span>
-        Front-End Developer
+        Full-Stack Developer
       </h2>
 
       <p className="max-w-xl mt-4 text-sm sm:text-base px-2 text-gray-700 dark:text-gray-300">
