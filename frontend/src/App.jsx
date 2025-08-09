@@ -15,7 +15,7 @@ export default function App() {
   const [activeSection, setActiveSection] = useState(null);
   const [list, setList] = useState([]);
 
-  const url = "http://localhost:4001";
+  const url = "https://ajay-portfolio-backend-5zns.onrender.com";
 
   const fetchData = async () => {
     try {
