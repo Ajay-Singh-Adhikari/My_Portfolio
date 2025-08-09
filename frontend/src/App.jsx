@@ -23,7 +23,7 @@ export default function App() {
       setList(response.data.data);
     } catch (err) {
       console.log(err);
-      toast.error("Error fetching food list");
+      toast.error("Error fetching items");
     }
   };
   useEffect(() => {
