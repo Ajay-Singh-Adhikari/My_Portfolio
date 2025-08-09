@@ -2,6 +2,7 @@ import { useSelector } from "react-redux";
 
 export default function Services() {
   const services = useSelector((state) => state.services.data);
+  console.log(services);
 
   return (
     <section
